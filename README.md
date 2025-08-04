@@ -24,17 +24,26 @@ This project is a deep learning-based facial emotion detection system that class
 You can install all dependencies using:-  pip install -r requirements.txt
 
 🧪 How to Run
+
+
 1.Clone the repository:-
+
 git clone https://github.com/yourusername/facial-emotion-detection.git
 cd facial-emotion-detection
 
+
 2.Install dependencies:
+
 pip install -r requirements.txt
 
+
 3.Train the model:
+
 python train.py
 
+
 4.Run emotion detection:
+
 python detect_emotion.py
 
 

@@ -30,13 +30,13 @@ You can install all dependencies using:-  pip install -r requirements.txt
 cd facial-emotion-detection
 
 
-2.Install dependencies: pip install -r requirements.txt
+2.Install dependencies:- pip install -r requirements.txt
 
 
-3.Train the model: python train.py
+3.Train the model:- python train.py
 
 
-4.Run emotion detection: python detect_emotion.py
+4.Run emotion detection:- python detect_emotion.py
 
 
 

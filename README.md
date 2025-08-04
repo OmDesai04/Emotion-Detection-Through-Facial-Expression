@@ -1,2 +1,42 @@
-# Emotion-Detection-Through-Facial-Expression
-This project implements a deep learning-based facial emotion recognition system that classifies human emotions into seven categories: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise. It uses a Convolutional Neural Network (CNN) model trained on facial images to accurately detect emotions from facial expressions.
+# Facial Emotion Detection Using Deep Learning
+
+This project is a deep learning-based facial emotion detection system that classifies facial expressions into one of seven emotions: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise. It uses a Convolutional Neural Network (CNN) trained on labeled facial image data.
+
+## 🚀 Features
+
+- Real-time emotion detection from images
+- Predicts 7 emotions with good accuracy
+- Visualization of performance using confusion matrix and accuracy/loss graphs
+- Model trained using TensorFlow/Keras
+
+## 🔧 Libraries Required
+
+- Python 3.7+
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- opencv-python
+- tensorflow
+- keras
+- scikit-learn
+
+You can install all dependencies using:-  pip install -r requirements.txt
+
+🧪 How to Run
+1.Clone the repository:-
+git clone https://github.com/yourusername/facial-emotion-detection.git
+cd facial-emotion-detection
+
+2.Install dependencies:
+pip install -r requirements.txt
+
+3.Train the model:
+python train.py
+
+4.Run emotion detection:
+python detect_emotion.py
+
+
+
+

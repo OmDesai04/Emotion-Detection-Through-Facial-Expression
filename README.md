@@ -39,5 +39,9 @@ cd facial-emotion-detection
 4.Run emotion detection:- python detect_emotion.py
 
 
+RESULT:-
+![WhatsApp Image 2025-08-06 at 11 16 55_59a083b5](https://github.com/user-attachments/assets/4d2cdbd4-4cae-4943-91c4-ce2ab7112527)
+
+
 
 
